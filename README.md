@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Sebastian Andrew N. Manilag! 👋
 
-<!--
-**JohnTimothyGandeza08/JohnTimothyGandeza08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about Photo and Video Editing and Web Development. I thrive on solving intricate problems and architecting elegant solutions.  
+My journey in tech commenced with the BS Information Technology program.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educational
+*BS Information Technology*
+  - *School:* New Era University
+  - *Course* Bachelor of Science in Information Technology
+  - *Year Level:* 2nd Year
+
+---
+
+## Certifications
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/85190128c1404c229adac066371d68fa#)
+
+---
+
+## Skill Sets
+- *Programming Languages:* PHP, Java, SQL
+- *Web Development:* HTML, CSS, Laragon
+- *Tools:* VS Code, Figma, IntelliJ
+- *Other Skills:* Database Management, UI/UX Design, Photo Editing, Video Editing 
+
+
+### Databases
+IBM DB2 Cloud
+
+### Tools
+Lucidchart  
+VScode
+Intellij
+HTML
+
+---
+
+## Let's Connect!
+
+Email: *jtgandeza@gmail.com*
+Institutional Email: johntimothy.gandeza@neu.edu.ph
