@@ -37,6 +37,5 @@ IBM DB2 Cloud
 ---
 
 ## Let's Connect!
-
-Email: *jtgandeza@gmail.com*
-Institutional Email: johntimothy.gandeza@neu.edu.ph
+Institutional Email: [johntimothy.gandeza@neu.edu.ph](johntimothy.gandeza@neu.edu.ph)
+Email:[jtgandeza@gmail.com](johntimothy.gandeza@neu.edu.ph)
