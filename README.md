@@ -1,4 +1,4 @@
-# Hi there, I'm Sebastian Andrew N. Manilag! 👋
+# Hi there, I'm John Timothy M. Gandeza! 👋
 
 I am passionate about Photo and Video Editing and Web Development. I thrive on solving intricate problems and architecting elegant solutions.  
 My journey in tech commenced with the BS Information Technology program.
