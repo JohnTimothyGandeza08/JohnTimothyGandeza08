@@ -29,10 +29,10 @@ My journey in tech commenced with the BS Information Technology program.
 IBM DB2 Cloud
 
 ### Tools
-Lucidchart  
-VScode
-Intellij
-HTML
+- Lucidchart  
+- VScode
+- Intellij
+- HTML
 
 ---
 
