@@ -1,7 +1,6 @@
 # Hi there, I'm John Timothy M. Gandeza! 👋
 
-I am passionate about Photo and Video Editing and Web Development. I thrive on solving intricate problems and architecting elegant solutions.  
-My journey in tech commenced with the BS Information Technology program.
+Welcome to my GitHub Profile! I am passionate about Photo and Video Editing and Web Development. I thrive on solving intricate problems and architecting elegant solutions. My journey in tech commenced with the BS Information Technology program.
 
 ---
 
@@ -9,7 +8,7 @@ My journey in tech commenced with the BS Information Technology program.
 *BS Information Technology*
   - *School:* New Era University
   - *Course* Bachelor of Science in Information Technology
-  - *Year Level:* 2nd Year
+  - 2024-Present
 
 ---
 
@@ -21,20 +20,12 @@ My journey in tech commenced with the BS Information Technology program.
 ---
 
 ## Skill Sets
-- *Programming Languages:* PHP, Java, SQL
-- *Web Development:* HTML, CSS, Laragon
-- *Tools:* VS Code, Figma, IntelliJ
-- *Other Skills:* Database Management, UI/UX Design, Photo Editing, Video Editing 
+- *Web Development:* HTML, CSS, PHP
+- *Programming:* HTML, CSS, Laragon
+- *Tools:* VS Code, IntelliJ
+- *Database:* SQL
+  
 
-
-### Databases
-IBM DB2 Cloud
-
-### Tools
-- Lucidchart  
-- VScode
-- Intellij
-- HTML
 
 ---
 
